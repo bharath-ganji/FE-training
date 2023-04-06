@@ -1,0 +1,83 @@
+
+$color-black: #000;
+$color-gray-light: #f5f5f5;
+$color-gray-dark: #ddd;
+$color-orange: #ffcaa6;
+$color-red: #b44747;
+
+// Common Mixins
+@mixin button-style {
+  border: 1px solid $color-black;
+  padding: 0.3em;
+  cursor: pointer;
+  border-radius: 50px;
+  transition: 0.3s ease-in-out;
+
+  &:hover {
+    border: 1px solid $color-orange;
+    background-color: $color-orange;
+  }
+}
+
+@mixin user-card {
+  height: 225px;
+  padding: 0.8em;
+  background: $color-gray-light;
+  position: relative;
+  overflow: visible;
+  box-shadow: 0 1px 3px rgba($color-black, 0.12),
+    0 1px 2px rgba($color-black, 0.24);
+}
+
+// User Card
+.user-card {
+  width: 190px;
+  @include user-card;
+  &-img {
+    background-color: $color-orange;
+    height: 40%;
+    width: 100%;
+    border-radius: 0.5rem;
+    transition: 0.3s ease;
+
+    &:hover {
+      transform: translateY(-25%);
+      box-shadow: rgba($color-orange, 0.25) 0px 13px 47px -5px,
+        rgba($color-red, 0.3) 0px 8px 16px -8px;
+    }
+  }
+  .text-title {
+    text-align: center;
+    // position: relative;
+    font-weight: 700  ;
+    // left: 25%;
+    // margin-left: 100px
+  }
+
+  &-footer {
+    width: 100%;
+    display: flex;
+    padding-top: 10px;
+    justify-content: space-around;
+    border-top: 1px solid $color-gray-dark;
+
+
+    .user-card-button {
+      @include button-style;
+    }
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .user-card {
+    width: 38%;
+    @include user-card;
+    &-footer {
+      display: flex;
+      align-items: center;
+      padding-top: 10px;
+      justify-content: space-around;
+      border-top: 1px solid $color-gray-dark;
+    }
+  }
+}

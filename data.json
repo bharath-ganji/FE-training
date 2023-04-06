@@ -1,0 +1,260 @@
+{
+  "users": [
+    {
+      "rollno": "admin123",
+      "name": "admin",
+      "phone": 8877994455,
+      "sec": "A",
+      "dept": "CSE",
+      "year": "2017-2021",
+      "img": "https://wallpapercave.com/wp/wp5756323.jpg",
+      "email": "admin@gmail.com"
+    },
+    {
+      "rollno": "178w1a0576",
+      "name": "bharath1",
+      "phone": 9988776655,
+      "sec": "A",
+      "dept": "CSE",
+      "year": "2017-2021",
+      "img": "https://wallpapercave.com/wp/wp5756323.jpg",
+      "email": "ganjisai19@gmail.com"
+    },
+    {
+      "rollno": "178w1a0577",
+      "name": "bharath2",
+      "phone": 9988776656,
+      "sec": "B",
+      "dept": "CSE",
+      "year": "2018-2022",
+      "img": "https://wallpapercave.com/wp/wp5756323.jpg",
+      "email": "ganjisai1@gmail.com"
+    },
+    {
+      "rollno": "178w1a0578",
+      "name": "bharath3",
+      "phone": 9988776657,
+      "sec": "C",
+      "dept": "CSE",
+      "year": "2017-2021",
+      "img": "https://wallpapercave.com/wp/wp5756323.jpg",
+      "email": "ganjisai2@gmail.com"
+    },
+    {
+      "rollno": "178w1a0579",
+      "name": "bharath4",
+      "phone": 9988776658,
+      "sec": "A",
+      "dept": "CSE",
+      "year": "2019-2023",
+      "img": "https://wallpapercave.com/wp/wp5756323.jpg",
+      "email": "ganjisai3@gmail.com"
+    },
+    {
+      "rollno": "178w1a0580",
+      "name": "bharath5",
+      "phone": 9988776659,
+      "sec": "B",
+      "dept": "CSE",
+      "year": "2017-2021",
+      "img": "https://wallpapercave.com/wp/wp5756323.jpg",
+      "email": "ganjisai4@gmail.com"
+    },
+    {
+      "rollno": "178w1a0581",
+      "name": "bharath6",
+      "phone": 9988776660,
+      "sec": "A",
+      "dept": "ECE",
+      "year": "2017-2021",
+      "img": "https://wallpapercave.com/wp/wp5756323.jpg",
+      "email": "ganjisai5@gmail.com"
+    },
+    {
+      "rollno": "178w1a0582",
+      "name": "bharath7",
+      "phone": 9988776661,
+      "sec": "B",
+      "dept": "ECE",
+      "year": "2018-2022",
+      "img": "https://wallpapercave.com/wp/wp5756323.jpg",
+      "email": "ganjisai6@gmail.com"
+    },
+    {
+      "rollno": "178w1a0583",
+      "name": "bharath8",
+      "phone": 9988776662,
+      "sec": "C",
+      "dept": "ECE",
+      "year": "2017-2021",
+      "img": "https://wallpapercave.com/wp/wp5756323.jpg",
+      "email": "ganjisai7@gmail.com"
+    },
+    {
+      "rollno": "178w1a0584",
+      "name": "bharath9",
+      "phone": 9988776663,
+      "sec": "A",
+      "dept": "ECE",
+      "year": "2019-2023",
+      "img": "https://wallpapercave.com/wp/wp5756323.jpg",
+      "email": "ganjisai8@gmail.com"
+    },
+    {
+      "rollno": "178w1a0585",
+      "name": "bharath10",
+      "phone": 9988776664,
+      "sec": "B",
+      "dept": "ECE",
+      "year": "2017-2021",
+      "img": "https://wallpapercave.com/wp/wp5756323.jpg",
+      "email": "ganjisai9@gmail.com"
+    },
+    {
+      "rollno": "178w1a0586",
+      "name": "bharath11",
+      "phone": 9988776665,
+      "sec": "A",
+      "dept": "IT",
+      "year": "2017-2021",
+      "img": "https://wallpapercave.com/wp/wp5756323.jpg",
+      "email": "ganjisai10@gmail.com"
+    },
+    {
+      "rollno": "178w1a0587",
+      "name": "bharath12",
+      "phone": 9988776666,
+      "sec": "A",
+      "dept": "IT",
+      "year": "2018-2022",
+      "img": "https://wallpapercave.com/wp/wp5756323.jpg",
+      "email": "ganjisa11@gmail.com"
+    },
+    {
+      "rollno": "178w1a0588",
+      "name": "bharath13",
+      "phone": 9988776667,
+      "sec": "B",
+      "dept": "IT",
+      "year": "2017-2021",
+      "img": "https://wallpapercave.com/wp/wp5756323.jpg",
+      "email": "ganjisa12@gmail.com"
+    },
+    {
+      "rollno": "178w1a0589",
+      "name": "bharath14",
+      "phone": 9988776668,
+      "sec": "A",
+      "dept": "IT",
+      "year": "2019-2023",
+      "img": "https://wallpapercave.com/wp/wp5756323.jpg",
+      "email": "ganjisai13@gmail.com"
+    },
+    {
+      "rollno": "178w1a0590",
+      "name": "bharath15",
+      "phone": 9988776669,
+      "sec": "A",
+      "dept": "MBA",
+      "year": "2019-2023",
+      "img": "https://wallpapercave.com/wp/wp5756323.jpg",
+      "email": "ganjisai14@gmail.com"
+    },
+    {
+      "rollno": "178w1a0588",
+      "name": "John Doe",
+      "phone": 9876543210,
+      "sec": "B",
+      "dept": "CSE",
+      "year": "2018-2022",
+      "img": "https://randomuser.me/api/portraits/men/1.jpg",
+      "email": "johndoe@example.com"
+    },
+    {
+      "rollno": "178w1a0589",
+      "name": "Jane Smith",
+      "phone": 9876543211,
+      "sec": "C",
+      "dept": "CSE",
+      "year": "2019-2023",
+      "img": "https://randomuser.me/api/portraits/women/1.jpg",
+      "email": "janesmith@example.com"
+    },
+    {
+      "rollno": "178w1a0590",
+      "name": "David Johnson",
+      "phone": 9876543212,
+      "sec": "A",
+      "dept": "CSE",
+      "year": "2017-2021",
+      "img": "https://randomuser.me/api/portraits/men/2.jpg",
+      "email": "davidjohnson@example.com"
+    },
+    {
+      "rollno": "178w1a0591",
+      "name": "Emily Wilson",
+      "phone": 9876543213,
+      "sec": "B",
+      "dept": "CSE",
+      "year": "2017-2021",
+      "img": "https://randomuser.me/api/portraits/women/2.jpg",
+      "email": "emilywilson@example.com"
+    },
+    {
+      "rollno": "178w1a0592",
+      "name": "Daniel Lee",
+      "phone": 9876543214,
+      "sec": "C",
+      "dept": "CSE",
+      "year": "2018-2022",
+      "img": "https://randomuser.me/api/portraits/men/3.jpg",
+      "email": "daniellee@example.com"
+    },
+    {
+      "rollno": "178w1a0593",
+      "name": "Sophie Brown",
+      "phone": 9876543215,
+      "sec": "A",
+      "dept": "ECE",
+      "year": "2017-2021",
+      "img": "https://randomuser.me/api/portraits/women/3.jpg",
+      "email": "sophiebrown@example.com"
+    },
+    {
+      "rollno": "178w1a0594",
+      "name": "Michael Davis",
+      "phone": 9876543216,
+      "sec": "B",
+      "dept": "ECE",
+      "year": "2019-2023",
+      "img": "https://randomuser.me/api/portraits/men/4.jpg",
+      "email": "michaeldavis@example.com"
+    },
+    {
+      "rollno": "178w1a0595",
+      "name": "Olivia Taylor",
+      "phone": 9876543217,
+      "sec": "C",
+      "dept": "ECE",
+      "year": "2017-2021",
+      "img": "https://randomuser.me/api/portraits/women/4.jpg",
+      "email": "oliviataylor@example.com"
+    }
+  ],
+  "departments": [
+    { "name": "CSE", "description": "CSE Department" },
+    { "name": "ECE", "description": "ECE Department" },
+    { "name": "IT", "description": "IT Department" },
+    { "name": "MBA", "description": "MBA Department" }
+  ],
+  "years": [
+    { "name": "2017-2021", "description": "Golden year" },
+    { "name": "2018-2022", "description": "Diamond year" },
+    { "name": "2019-2023", "description": "pearl year" }
+  ],
+  "sections": [
+    { "name": "A", "description": "section description" },
+    { "name": "B", "description": "section description" },
+    { "name": "C", "description": "section description" }
+  ]
+}
