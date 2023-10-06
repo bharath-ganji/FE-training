@@ -15,7 +15,7 @@ export default function Navbar() {
   return (
     <nav className="navbar">
       <Logo />
-      <Link to={"/home"} className="nav-link ">
+      <Link to={"/home"} id="home" className="nav-link ">
         <FontAwesomeIcon icon={faHome} /> Home
       </Link>
       <a href={"/timeline"} className="nav-link">
